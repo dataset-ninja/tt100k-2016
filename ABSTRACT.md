@@ -22,7 +22,7 @@ and downloaded 100000 panoramas from the Tencent Data Center.
 
 <span style="font-size: smaller; font-style: italic;">8192×2048 panorama from Tencent Street View before slicing vertically into 4 images. Sky and ground at top and bottom have been cropped.</span>
 
-Bounding box and class label.             |  Pixel mask annotation.
+Bounding box and class label             |  Pixel mask annotation
 :-------------------------:|:-------------------------:
 ![](https://github.com/dataset-ninja/tt100k-2016/assets/120389559/aa63c632-9cb1-4ac1-8d61-ad5332dcf408)  |  ![](https://github.com/dataset-ninja/tt100k-2016/assets/120389559/197fc6be-2037-414c-9577-a89d80ba264d)
 
