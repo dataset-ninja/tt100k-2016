@@ -25,7 +25,7 @@ and downloaded 100000 panoramas from the Tencent Data Center.
 </div>
 
 <div align="center">
-    <img src="https://github.com/dataset-ninja/tt100k-2016/assets/120389559/01bae16e-7a43-47a3-9d99-7a17399aab6b" alt="Image 1" width="50%" />
+    <img src="https://github.com/dataset-ninja/tt100k-2016/assets/120389559/01bae16e-7a43-47a3-9d99-7a17399aab6b" alt="Image 1" width="45%" />
     <img src="https://github.com/dataset-ninja/tt100k-2016/assets/120389559/aa63c632-9cb1-4ac1-8d61-ad5332dcf408" alt="Image 2" width="25%" />
     <img src="https://github.com/dataset-ninja/tt100k-2016/assets/120389559/197fc6be-2037-414c-9577-a89d80ba264d" alt="Image 3" width="25%" />
 </div>
